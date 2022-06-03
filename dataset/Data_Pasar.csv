@@ -1,0 +1,55 @@
+Kategori;Nama Bahan Pangan;Harga(Rp);Berat(Kg);Ketersediaan(Kg)
+Bahan Pangan;Beras Medium Merk Rojolele;10000;1;20
+Bahan Pangan;Beras Premium Merk Subur Jaya ;13000;1;8
+Bahan Pangan;Beras Premium Merk Dua Koki ;12200;1;12
+Bahan Pangan;Beras Premium Merk Raja Udang ;11800;1;10
+Bahan Pangan;Beras Premium Merk Mawar ;11000;1;9
+Bahan Pangan;Gula Pasir ;14000;1;15
+Bahan Pangan;Minyak Goreng Curah ;10000;1;25
+Bahan Pangan;Minyak Goreng Kemasan Sederhana ;11000;1;20
+Bahan Pangan;Minyak Goreng Kemasan Premium ;20000;1;30
+Bahan Pangan;Susu Kental Manis ;10000;1;5.25
+Bahan Pangan;Telur Ayam Broiler ;20000;1;10
+Bahan Pangan;Telur Ayam Kampung ;55000;1;7
+Bahan Pangan;Jagung Pipilan Kering ;7000;1;10
+Bahan Pangan;Mie Instan Kari Ayam ;2300;0.085;8.5
+Bahan Pangan;Tepung Terigu ;12000;1;8
+Bahan Pangan;Beras Medium Merk AK ;40500;1;7
+Bahan Pangan;Garam Beryodium Halus ;4000;0.5;4
+Daging;Daging Sapi Paha Belakang ;120000;1;75
+Daging;Daging Sapi Paha Depan ;120000;1;75
+Daging;Daging Sapi Sandung Lamur ;65000;1;45
+Daging;Daging Sapi Tetelan ;65000;1;35
+Daging;Daging Sapi Has Dalam ;120000;1;45
+Daging;Daging Sapi Has Luar ;120000;1;45
+Daging;Daging Ayam Broiler ;40000;1;18
+Daging;Daging Ayam Kampung ;65000;1;30
+Rempah-Rempah;Cabe Merah Keriting ;23000;1;15
+Rempah-Rempah;Cabe Merah Besar ;22000;1;15
+Rempah-Rempah;Cabe Rawit Hijau ;47000;1;7
+Rempah-Rempah;Cabe Rawit Merah ;32000;1;10
+Rempah-Rempah;Bawang Merah ;28000;1;50
+Rempah-Rempah;Bawang Putih Honan ;26000;1;50
+Rempah-Rempah;Bawang Putih Kating ;30000;1;40
+Rempah-Rempah;Bawang Bombay ;27000;1;40
+Ikan;Ikan Asin Teri ;120000;1;10
+Ikan;Ikan Asin Kembung ;60000;1;35
+Ikan;Ikan Segar Bandeng ;25000;1;30
+Ikan;Ikan Segar Kembung ;30000;1;50
+Ikan;Ikan Segar Tongkol;30000;1;50
+Ikan;Ikan Mas ;30000;1;50
+Ikan;Ikan Nila ;30000;1;50
+Ikan;Ikan Patin ;23000;1;50
+Ikan;Ikan Lele ;23000;1;50
+Sayur;Buncis ;12000;1;13
+Sayur;Tomat Sayur ;9000;1;15
+Sayur;Wortel ;8000;1;11
+Sayur;Kol ;5000;1;8
+Sayur;Sawi Putih ;8000;1;9
+Buah;Ketela Pohon ;3000;1;12.5
+Buah;Kacang Kedelai Ex Import ;12000;1;15
+Buah;Kacang Tanah ;28000;1;25
+Buah;Kacang Hijau ;24000;1;20
+Buah;Kentang ;12000;1;15
+Buah;Terong Ungu ;8000;1;10
+Buah;Timun ;7000;1;12
